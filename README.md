@@ -55,5 +55,3 @@ To replicate the analysis, load the dataset `proj2data.txt` and follow the metho
 ## Contributions
 Contributions to enhance the analysis or implement additional methods are welcome.
 
-## License
-This project is licensed under [License Name].
